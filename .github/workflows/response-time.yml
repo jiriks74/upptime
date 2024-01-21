@@ -12,13 +12,12 @@
 # * Source: https://github.com/upptime/upptime
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
-#
 
 
 name: Response Time CI
 on:
   schedule:
-    - cron: "0 0,6,12,18,24 * * *"
+    - cron: "0 0,6,12,18 * * *"
   repository_dispatch:
     types: [response_time]
   workflow_dispatch:
