@@ -1,36 +1,50 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: jiriks74 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: stefka.eu
+    url: https://stefka.eu
+  - name: Gitea
+    url: https://gitea.stefka.eu
+    icon: https://gitea.com/assets/img/logo.svg
+  - name: OpenProject
+    url: https://openproject.stefka.eu
+    icon: https://raw.githubusercontent.com/opf/openproject/dev/app/assets/images/logo_openproject_narrow.svg
+
+assignees: # Users to assign downtime issues (optional)
+  - jiriks74
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.stefka.eu
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Upptime - stefka.eu
+  introTitle: "Uptime of my public services and personal website."
+  introMessage: "This page is powered by [**Upptime**](https://github.com/upptime/upptime) - GitHub Actions uptime monitor & status page.\n\n\nSince GitHub limits the number of Actions you can run to 1 Action every 5 minutes it's the smallest time possible between uptime checks.\nActions can be, however, sometimes ran even 15 minutes (sometimes more) apart even if they're set to run every 5 minutes.\n\n\n**Refreshing over and over won't load new data** (apart from reports on downtime, etc.). Refresh every 5-10 minutes to get new data."
+
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: stefka.eu
+      href: https://stefka.eu
+    - title: Gitea
+      href: https://gitea.stefka.eu
+    - title: OpenProject
+      href: https://openproject.stefka.eu
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 0,6,12,18,24 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
