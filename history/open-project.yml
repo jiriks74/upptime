@@ -1,7 +1,7 @@
 url: https://openproject.stefka.eu
-status: up
-code: 200
-responseTime: 1486
-lastUpdated: 2024-02-28T18:15:04.454Z
+status: down
+code: 503
+responseTime: 744
+lastUpdated: 2024-02-28T18:32:06.564Z
 startTime: 2024-01-21T10:20:55.229Z
 generator: Upptime <https://github.com/upptime/upptime>
