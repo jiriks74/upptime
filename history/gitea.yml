@@ -1,7 +1,7 @@
 url: https://gitea.stefka.eu
-status: down
-code: 502
-responseTime: 1828
-lastUpdated: 2024-03-23T12:23:35.468Z
+status: up
+code: 200
+responseTime: 656
+lastUpdated: 2024-03-23T16:28:58.291Z
 startTime: 2024-01-21T10:20:53.430Z
 generator: Upptime <https://github.com/upptime/upptime>
