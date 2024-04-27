@@ -8,6 +8,9 @@ sites:
   - name: Gitea
     url: https://gitea.stefka.eu
     icon: https://gitea.com/assets/img/logo.svg
+  - name: Opengist
+    url: https://opengist.stefka.eu
+    icon: https://opengist.stefka.eu/assets/opengist-85b89b9c.svg
   - name: OpenProject
     url: https://openproject.stefka.eu
     icon: https://raw.githubusercontent.com/opf/openproject/dev/app/assets/images/logo_openproject_narrow.svg
@@ -34,6 +37,8 @@ status-website:
       href: https://stefka.eu
     - title: Gitea
       href: https://gitea.stefka.eu
+    - title: Opengist
+      href: https://opengist.stefka.eu
     - title: OpenProject
       href: https://openproject.stefka.eu
 
