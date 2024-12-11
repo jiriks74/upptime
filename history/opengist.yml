@@ -1,7 +1,7 @@
 url: https://opengist.stefka.eu
-status: up
-code: 200
-responseTime: 700
-lastUpdated: 2024-12-11T18:05:54.848Z
+status: down
+code: 502
+responseTime: 3503
+lastUpdated: 2024-12-11T22:30:02.743Z
 startTime: 2024-04-27T20:02:23.314Z
 generator: Upptime <https://github.com/upptime/upptime>
