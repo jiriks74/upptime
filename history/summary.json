@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
     "status": "up",
-    "uptime": "96.62%",
+    "uptime": "96.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "96.14%",
     "time": 654,
-    "timeDay": 651,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 650,
+    "timeDay": 699,
+    "timeWeek": 678,
+    "timeMonth": 679,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2025-03-04": 36,
       "2025-03-02": 60,
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.57%",
-    "time": 800,
-    "timeDay": 1136,
-    "timeWeek": 1145,
-    "timeMonth": 1143,
-    "timeYear": 803,
+    "time": 801,
+    "timeDay": 1166,
+    "timeWeek": 1146,
+    "timeMonth": 1148,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2025-03-04": 36,
       "2025-03-02": 60,
@@ -90,8 +90,7 @@
       "2024-04-05": 31,
       "2024-03-21": 450,
       "2024-03-20": 262,
-      "2024-03-19": 346,
-      "2024-03-18": 48
+      "2024-03-19": 346
     }
   },
   {
@@ -106,9 +105,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.81%",
     "time": 840,
-    "timeDay": 851,
-    "timeWeek": 807,
-    "timeMonth": 819,
+    "timeDay": 843,
+    "timeWeek": 815,
+    "timeMonth": 818,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2025-03-04": 36,
@@ -132,16 +131,16 @@
     "icon": "https://raw.githubusercontent.com/opf/openproject/dev/app/assets/images/logo_openproject_narrow.svg",
     "slug": "open-project",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.13%",
-    "time": 974,
-    "timeDay": 669,
-    "timeWeek": 707,
-    "timeMonth": 952,
-    "timeYear": 865,
+    "time": 970,
+    "timeDay": 832,
+    "timeWeek": 729,
+    "timeMonth": 960,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2025-03-04": 36,
       "2025-03-02": 60,
@@ -187,8 +186,7 @@
       "2024-04-05": 31,
       "2024-03-21": 450,
       "2024-03-20": 261,
-      "2024-03-19": 353,
-      "2024-03-18": 47
+      "2024-03-19": 353
     }
   }
 ]
