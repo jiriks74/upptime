@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
     "status": "up",
-    "uptime": "96.64%",
+    "uptime": "96.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "96.14%",
     "time": 666,
-    "timeDay": 3551,
-    "timeWeek": 1314,
-    "timeMonth": 845,
+    "timeDay": 664,
+    "timeWeek": 1303,
+    "timeMonth": 840,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2025-03-04": 36,
@@ -49,8 +49,7 @@
       "2024-04-05": 32,
       "2024-03-23": 21,
       "2024-03-22": 15,
-      "2024-03-21": 762,
-      "2024-03-20": 263
+      "2024-03-21": 762
     }
   },
   {
@@ -63,12 +62,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.58%",
-    "time": 802,
-    "timeDay": 989,
-    "timeWeek": 1143,
-    "timeMonth": 1140,
-    "timeYear": 805,
+    "uptimeYear": "99.64%",
+    "time": 804,
+    "timeDay": 1100,
+    "timeWeek": 1123,
+    "timeMonth": 1135,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2025-03-04": 36,
       "2025-03-02": 60,
@@ -88,8 +87,7 @@
       "2024-04-12": 28,
       "2024-04-06": 170,
       "2024-04-05": 31,
-      "2024-03-21": 450,
-      "2024-03-20": 262
+      "2024-03-21": 450
     }
   },
   {
@@ -103,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.81%",
-    "time": 840,
-    "timeDay": 693,
-    "timeWeek": 810,
-    "timeMonth": 812,
-    "timeYear": 840,
+    "time": 839,
+    "timeDay": 793,
+    "timeWeek": 799,
+    "timeMonth": 810,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2025-03-04": 36,
       "2025-03-02": 60,
@@ -130,16 +128,16 @@
     "icon": "https://raw.githubusercontent.com/opf/openproject/dev/app/assets/images/logo_openproject_narrow.svg",
     "slug": "open-project",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.14%",
-    "time": 969,
-    "timeDay": 691,
-    "timeWeek": 737,
-    "timeMonth": 960,
-    "timeYear": 858,
+    "uptimeYear": "99.20%",
+    "time": 968,
+    "timeDay": 650,
+    "timeWeek": 717,
+    "timeMonth": 959,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2025-03-04": 36,
       "2025-03-02": 60,
@@ -183,8 +181,7 @@
       "2024-04-12": 28,
       "2024-04-06": 156,
       "2024-04-05": 31,
-      "2024-03-21": 450,
-      "2024-03-20": 261
+      "2024-03-21": 450
     }
   }
 ]
