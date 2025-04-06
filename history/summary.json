@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
     "status": "down",
-    "uptime": "96.43%",
+    "uptime": "96.21%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.76%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "95.93%",
-    "time": 707,
-    "timeDay": 106,
-    "timeWeek": 603,
-    "timeMonth": 1372,
-    "timeYear": 713,
+    "uptimeWeek": "65.44%",
+    "uptimeMonth": "91.84%",
+    "uptimeYear": "95.67%",
+    "time": 706,
+    "timeDay": 95,
+    "timeWeek": 524,
+    "timeMonth": 1353,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2025-04-05": 31,
+      "2025-04-06": 35,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 569,
       "2025-03-28": 18,
@@ -50,8 +51,7 @@
       "2024-07-02": 75,
       "2024-07-01": 0,
       "2024-06-24": 238,
-      "2024-04-12": 29,
-      "2024-04-06": 177
+      "2024-04-12": 29
     }
   },
   {
@@ -64,12 +64,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.76%",
-    "time": 836,
-    "timeDay": 1103,
-    "timeWeek": 1131,
-    "timeMonth": 1371,
-    "timeYear": 842,
+    "uptimeYear": "99.77%",
+    "time": 838,
+    "timeDay": 1368,
+    "timeWeek": 1163,
+    "timeMonth": 1379,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2025-03-28": 17,
       "2025-03-24": 47,
@@ -89,8 +89,7 @@
       "2024-07-02": 75,
       "2024-06-24": 237,
       "2024-04-27": 8,
-      "2024-04-12": 28,
-      "2024-04-06": 170
+      "2024-04-12": 28
     }
   },
   {
@@ -105,9 +104,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 840,
-    "timeDay": 776,
-    "timeWeek": 792,
-    "timeMonth": 824,
+    "timeDay": 951,
+    "timeWeek": 812,
+    "timeMonth": 829,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2025-03-28": 17,
@@ -134,18 +133,19 @@
     "icon": "https://raw.githubusercontent.com/opf/openproject/dev/app/assets/images/logo_openproject_narrow.svg",
     "slug": "open-project",
     "status": "down",
-    "uptime": "97.93%",
+    "uptime": "97.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.76%",
-    "uptimeMonth": "95.15%",
-    "uptimeYear": "98.93%",
-    "time": 948,
-    "timeDay": 93,
-    "timeWeek": 581,
-    "timeMonth": 971,
-    "timeYear": 846,
+    "uptimeWeek": "65.44%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "98.67%",
+    "time": 946,
+    "timeDay": 75,
+    "timeWeek": 486,
+    "timeMonth": 948,
+    "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-04-05": 31,
+      "2025-04-06": 35,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 569,
       "2025-03-28": 16,
@@ -190,8 +190,7 @@
       "2024-05-04": 15,
       "2024-04-18": 19,
       "2024-04-17": 5,
-      "2024-04-12": 28,
-      "2024-04-06": 156
+      "2024-04-12": 28
     }
   }
 ]
