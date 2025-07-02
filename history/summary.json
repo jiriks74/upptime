@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
     "status": "down",
-    "uptime": "80.50%",
+    "uptime": "80.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.19%",
-    "time": 603,
-    "timeDay": 98,
-    "timeWeek": 128,
-    "timeMonth": 116,
-    "timeYear": 606,
+    "uptimeYear": "71.92%",
+    "time": 602,
+    "timeDay": 108,
+    "timeWeek": 118,
+    "timeMonth": 117,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-07-01": 41,
+      "2025-07-02": 35,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -133,8 +134,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 223,
       "2024-11-07": 21,
-      "2024-10-14": 22,
-      "2024-07-02": 75
+      "2024-10-14": 22
     }
   },
   {
@@ -148,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 950,
-    "timeDay": 1175,
-    "timeWeek": 1224,
+    "time": 951,
+    "timeDay": 1127,
+    "timeWeek": 1200,
     "timeMonth": 1236,
-    "timeYear": 980,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2025-04-11": 12,
       "2025-03-28": 17,
@@ -169,8 +169,7 @@
       "2024-12-28": 55,
       "2024-12-24": 15,
       "2024-11-20": 18,
-      "2024-10-14": 21,
-      "2024-07-02": 75
+      "2024-10-14": 21
     }
   },
   {
@@ -183,12 +182,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 849,
-    "timeDay": 843,
-    "timeWeek": 887,
-    "timeMonth": 870,
-    "timeYear": 856,
+    "timeDay": 826,
+    "timeWeek": 881,
+    "timeMonth": 872,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2025-04-11": 12,
       "2025-03-28": 17,
@@ -204,8 +203,7 @@
       "2024-12-29": 61,
       "2024-12-28": 54,
       "2024-11-20": 18,
-      "2024-10-14": 21,
-      "2024-07-02": 74
+      "2024-10-14": 21
     }
   },
   {
@@ -214,18 +212,19 @@
     "icon": "https://raw.githubusercontent.com/opf/openproject/dev/app/assets/images/logo_openproject_narrow.svg",
     "slug": "open-project",
     "status": "down",
-    "uptime": "81.75%",
+    "uptime": "81.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.19%",
-    "time": 711,
-    "timeDay": 146,
-    "timeWeek": 101,
+    "uptimeYear": "74.93%",
+    "time": 710,
+    "timeDay": 94,
+    "timeWeek": 98,
     "timeMonth": 97,
-    "timeYear": 702,
+    "timeYear": 700,
     "dailyMinutesDown": {
-      "2025-07-01": 41,
+      "2025-07-02": 35,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -350,8 +349,7 @@
       "2024-10-23": 79,
       "2024-10-21": 37,
       "2024-10-14": 21,
-      "2024-09-27": 69,
-      "2024-07-02": 73
+      "2024-09-27": 69
     }
   }
 ]
