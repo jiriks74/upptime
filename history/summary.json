@@ -9,14 +9,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.14%",
+    "uptimeYear": "34.13%",
     "time": 473,
-    "timeDay": 306,
-    "timeWeek": 196,
+    "timeDay": 315,
+    "timeWeek": 192,
     "timeMonth": 204,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-11-16": 1400,
+      "2025-11-17": 36,
+      "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
@@ -268,8 +269,7 @@
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
-      "2024-11-18": 1440,
-      "2024-11-17": 223
+      "2024-11-18": 1440
     }
   },
   {
@@ -283,11 +283,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.85%",
-    "time": 1153,
-    "timeDay": 1323,
-    "timeWeek": 1315,
-    "timeMonth": 1332,
-    "timeYear": 1206,
+    "time": 1154,
+    "timeDay": 1314,
+    "timeWeek": 1320,
+    "timeMonth": 1331,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2025-11-16": 38,
       "2025-10-05": 20,
@@ -322,9 +322,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.86%",
     "time": 870,
-    "timeDay": 1027,
-    "timeWeek": 959,
-    "timeMonth": 921,
+    "timeDay": 1013,
+    "timeWeek": 964,
+    "timeMonth": 920,
     "timeYear": 876,
     "dailyMinutesDown": {
       "2025-11-16": 37,
@@ -357,14 +357,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.47%",
+    "uptimeYear": "37.46%",
     "time": 506,
-    "timeDay": 218,
-    "timeWeek": 193,
-    "timeMonth": 187,
-    "timeYear": 473,
+    "timeDay": 267,
+    "timeWeek": 192,
+    "timeMonth": 188,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-11-16": 1401,
+      "2025-11-17": 37,
+      "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
@@ -610,8 +611,7 @@
       "2024-11-22": 37,
       "2024-11-20": 16,
       "2024-11-19": 96,
-      "2024-11-18": 293,
-      "2024-11-17": 58
+      "2024-11-18": 293
     }
   }
 ]
