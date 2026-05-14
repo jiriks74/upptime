@@ -5,15 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: stefka.eu
     url: https://stefka.eu
-  - name: Gitea
-    url: https://gitea.stefka.eu
-    icon: https://gitea.com/assets/img/logo.svg
+  - name: Forgejo
+    url: https://forgejo.stefka.eu
+    icon: https://forgejo.stefka.eu/assets/img/logo.svg
   - name: Opengist
     url: https://opengist.stefka.eu
     icon: https://opengist.stefka.eu/assets/opengist-85b89b9c.svg
-  - name: OpenProject
-    url: https://openproject.stefka.eu
-    icon: https://raw.githubusercontent.com/opf/openproject/dev/app/assets/images/logo_openproject_narrow.svg
 
 assignees: # Users to assign downtime issues (optional)
   - jiriks74
@@ -35,12 +32,10 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: stefka.eu
       href: https://stefka.eu
-    - title: Gitea
-      href: https://gitea.stefka.eu
+    - title: Forgejo
+      href: https://forgejo.stefka.eu
     - title: Opengist
       href: https://opengist.stefka.eu
-    - title: OpenProject
-      href: https://openproject.stefka.eu
 
 workflowSchedule:
   graphs: "0 0 * * *"
