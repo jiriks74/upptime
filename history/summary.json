@@ -4,17 +4,17 @@
     "url": "https://stefka.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "52.20%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "83.13%",
     "uptimeYear": "7.09%",
-    "time": 317,
-    "timeDay": 5360,
-    "timeWeek": 2530,
-    "timeMonth": 1878,
-    "timeYear": 335,
+    "time": 319,
+    "timeDay": 4982,
+    "timeWeek": 2549,
+    "timeMonth": 1887,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2026-05-06": 69,
       "2026-05-05": 1440,
@@ -358,7 +358,7 @@
       "2026-05-10": 19,
       "2026-05-14": 27,
       "2026-05-22": 167,
-      "2026-06-01": 0
+      "2026-06-01": 56
     }
   },
   {
