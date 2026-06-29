@@ -4,12 +4,12 @@
     "url": "https://stefka.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
-    "status": "up",
-    "uptime": "53.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "14.72%",
+    "status": "down",
+    "uptime": "53.70%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "14.77%",
     "time": 438,
     "timeDay": 936,
     "timeWeek": 960,
@@ -330,7 +330,8 @@
       "2026-05-10": 19,
       "2026-05-14": 27,
       "2026-05-22": 167,
-      "2026-06-01": 172
+      "2026-06-01": 172,
+      "2026-06-29": 10
     }
   },
   {
@@ -338,12 +339,12 @@
     "url": "https://forgejo.stefka.eu",
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.57%",
     "time": 929,
     "timeDay": 812,
     "timeWeek": 822,
@@ -352,7 +353,8 @@
     "dailyMinutesDown": {
       "2026-05-14": 27,
       "2026-05-22": 162,
-      "2026-05-26": 87
+      "2026-05-26": 87,
+      "2026-06-29": 5
     }
   },
   {
@@ -360,13 +362,13 @@
     "url": "https://opengist.stefka.eu",
     "icon": "https://opengist.stefka.eu/assets/opengist-85b89b9c.svg",
     "slug": "opengist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
-    "time": 1019,
+    "time": 1020,
     "timeDay": 1379,
     "timeWeek": 1349,
     "timeMonth": 1442,
@@ -394,7 +396,8 @@
       "2026-05-04": 25,
       "2026-05-05": 44,
       "2026-05-14": 27,
-      "2026-05-22": 158
+      "2026-05-22": 158,
+      "2026-06-29": 0
     }
   }
 ]
