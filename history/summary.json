@@ -305,15 +305,15 @@
     "url": "https://forgejo.stefka.eu",
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
-    "status": "down",
-    "uptime": "98.57%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "95.75%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "98.57%",
+    "status": "up",
+    "uptime": "98.56%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "98.56%",
     "time": 1045,
-    "timeDay": 798,
-    "timeWeek": 1240,
+    "timeDay": 846,
+    "timeWeek": 1233,
     "timeMonth": 1039,
     "timeYear": 1045,
     "dailyMinutesDown": {
@@ -327,7 +327,7 @@
       "2026-07-30": 173,
       "2026-07-31": 345,
       "2026-08-07": 427,
-      "2026-08-08": 2
+      "2026-08-08": 17
     }
   },
   {
