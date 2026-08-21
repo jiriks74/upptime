@@ -4,17 +4,17 @@
     "url": "https://stefka.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
-    "status": "down",
-    "uptime": "56.06%",
-    "uptimeDay": "62.17%",
-    "uptimeWeek": "89.12%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "28.64%",
-    "time": 828,
-    "timeDay": 7828,
-    "timeWeek": 5005,
-    "timeMonth": 3870,
-    "timeYear": 881,
+    "status": "up",
+    "uptime": "56.05%",
+    "uptimeDay": "62.62%",
+    "uptimeWeek": "87.39%",
+    "uptimeMonth": "92.78%",
+    "uptimeYear": "28.65%",
+    "time": 832,
+    "timeDay": 7623,
+    "timeWeek": 5052,
+    "timeMonth": 3890,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2026-05-06": 69,
       "2026-05-05": 1440,
@@ -289,7 +289,7 @@
       "2026-08-17": 39,
       "2026-08-19": 325,
       "2026-08-20": 723,
-      "2026-08-21": 10
+      "2026-08-21": 184
     }
   },
   {
@@ -298,11 +298,11 @@
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
     "status": "down",
-    "uptime": "97.37%",
+    "uptime": "97.24%",
     "uptimeDay": "62.51%",
-    "uptimeWeek": "88.81%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "97.37%",
+    "uptimeWeek": "87.02%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "97.24%",
     "time": 1071,
     "timeDay": 1529,
     "timeWeek": 1599,
@@ -324,7 +324,7 @@
       "2026-08-17": 34,
       "2026-08-20": 723,
       "2026-08-19": 366,
-      "2026-08-21": 5
+      "2026-08-21": 186
     }
   },
   {
@@ -333,11 +333,11 @@
     "icon": "https://opengist.stefka.eu/assets/opengist-85b89b9c.svg",
     "slug": "opengist",
     "status": "down",
-    "uptime": "99.32%",
+    "uptime": "99.31%",
     "uptimeDay": "62.84%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "98.63%",
+    "uptimeWeek": "87.44%",
+    "uptimeMonth": "92.74%",
+    "uptimeYear": "98.60%",
     "time": 1135,
     "timeDay": 1926,
     "timeWeek": 3181,
@@ -375,7 +375,7 @@
       "2026-08-17": 29,
       "2026-08-19": 333,
       "2026-08-20": 723,
-      "2026-08-21": 0
+      "2026-08-21": 181
     }
   }
 ]
