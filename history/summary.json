@@ -4,17 +4,17 @@
     "url": "https://stefka.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "56.01%",
-    "uptimeDay": "30.05%",
-    "uptimeWeek": "72.15%",
-    "uptimeMonth": "89.27%",
+    "uptimeDay": "28.17%",
+    "uptimeWeek": "71.88%",
+    "uptimeMonth": "89.21%",
     "uptimeYear": "28.79%",
-    "time": 919,
-    "timeDay": 10713,
-    "timeWeek": 8208,
-    "timeMonth": 4990,
-    "timeYear": 1022,
+    "time": 924,
+    "timeDay": 10573,
+    "timeWeek": 8214,
+    "timeMonth": 5013,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2026-05-06": 69,
       "2026-05-05": 1440,
@@ -289,7 +289,7 @@
       "2026-08-19": 325,
       "2026-08-20": 723,
       "2026-08-21": 774,
-      "2026-08-22": 945
+      "2026-08-22": 973
     }
   },
   {
@@ -298,11 +298,11 @@
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
     "status": "up",
-    "uptime": "96.26%",
-    "uptimeDay": "39.29%",
-    "uptimeWeek": "72.21%",
-    "uptimeMonth": "88.87%",
-    "uptimeYear": "96.26%",
+    "uptime": "96.27%",
+    "uptimeDay": "40.21%",
+    "uptimeWeek": "72.34%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "96.27%",
     "time": 1237,
     "timeDay": 8035,
     "timeWeek": 3871,
@@ -325,7 +325,7 @@
       "2026-08-20": 723,
       "2026-08-19": 366,
       "2026-08-21": 821,
-      "2026-08-22": 858
+      "2026-08-22": 845
     }
   },
   {
@@ -335,9 +335,9 @@
     "slug": "opengist",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "41.92%",
-    "uptimeWeek": "73.63%",
-    "uptimeMonth": "89.56%",
+    "uptimeDay": "42.79%",
+    "uptimeWeek": "73.75%",
+    "uptimeMonth": "89.59%",
     "uptimeYear": "98.33%",
     "time": 1194,
     "timeDay": 5591,
@@ -377,7 +377,7 @@
       "2026-08-19": 333,
       "2026-08-20": 723,
       "2026-08-21": 737,
-      "2026-08-22": 837
+      "2026-08-22": 824
     }
   }
 ]
