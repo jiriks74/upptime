@@ -4,17 +4,17 @@
     "url": "https://stefka.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
-    "status": "down",
-    "uptime": "56.04%",
-    "uptimeDay": "44.31%",
-    "uptimeWeek": "81.26%",
-    "uptimeMonth": "91.37%",
+    "status": "up",
+    "uptime": "56.01%",
+    "uptimeDay": "29.92%",
+    "uptimeWeek": "73.27%",
+    "uptimeMonth": "89.53%",
     "uptimeYear": "28.75%",
-    "time": 894,
-    "timeDay": 11476,
-    "timeWeek": 6893,
-    "timeMonth": 4416,
-    "timeYear": 946,
+    "time": 911,
+    "timeDay": 12500,
+    "timeWeek": 7653,
+    "timeMonth": 4628,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2026-05-06": 69,
       "2026-05-05": 1440,
@@ -289,7 +289,7 @@
       "2026-08-19": 325,
       "2026-08-20": 723,
       "2026-08-21": 774,
-      "2026-08-22": 28
+      "2026-08-22": 833
     }
   },
   {
@@ -297,17 +297,17 @@
     "url": "https://forgejo.stefka.eu",
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
-    "status": "down",
-    "uptime": "96.81%",
-    "uptimeDay": "41.36%",
-    "uptimeWeek": "80.49%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "96.81%",
-    "time": 1174,
-    "timeDay": 11513,
-    "timeWeek": 3163,
-    "timeMonth": 1435,
-    "timeYear": 1174,
+    "status": "up",
+    "uptime": "96.27%",
+    "uptimeDay": "35.62%",
+    "uptimeWeek": "72.50%",
+    "uptimeMonth": "88.94%",
+    "uptimeYear": "96.27%",
+    "time": 1176,
+    "timeDay": 9646,
+    "timeWeek": 3307,
+    "timeMonth": 1460,
+    "timeYear": 1176,
     "dailyMinutesDown": {
       "2026-05-14": 27,
       "2026-05-22": 162,
@@ -325,7 +325,7 @@
       "2026-08-20": 723,
       "2026-08-19": 366,
       "2026-08-21": 821,
-      "2026-08-22": 24
+      "2026-08-22": 829
     }
   },
   {
@@ -333,17 +333,17 @@
     "url": "https://opengist.stefka.eu",
     "icon": "https://opengist.stefka.eu/assets/opengist-85b89b9c.svg",
     "slug": "opengist",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "47.55%",
-    "uptimeWeek": "81.74%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "98.49%",
-    "time": 1182,
-    "timeDay": 26791,
-    "timeWeek": 6069,
-    "timeMonth": 2532,
-    "timeYear": 1208,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "38.54%",
+    "uptimeWeek": "73.75%",
+    "uptimeMonth": "89.59%",
+    "uptimeYear": "98.33%",
+    "time": 1185,
+    "timeDay": 12436,
+    "timeWeek": 6391,
+    "timeMonth": 2587,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-10-05": 19,
       "2025-11-16": 37,
@@ -377,7 +377,7 @@
       "2026-08-19": 333,
       "2026-08-20": 723,
       "2026-08-21": 737,
-      "2026-08-22": 19
+      "2026-08-22": 824
     }
   }
 ]
