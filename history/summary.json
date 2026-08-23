@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "56.01%",
     "uptimeDay": "21.12%",
-    "uptimeWeek": "70.22%",
-    "uptimeMonth": "88.83%",
+    "uptimeWeek": "69.89%",
+    "uptimeMonth": "88.75%",
     "uptimeYear": "28.81%",
     "time": 937,
     "timeDay": 10757,
@@ -289,7 +289,7 @@
       "2026-08-20": 723,
       "2026-08-21": 774,
       "2026-08-22": 1064,
-      "2026-08-23": 77
+      "2026-08-23": 110
     }
   },
   {
@@ -298,11 +298,11 @@
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
     "status": "down",
-    "uptime": "96.12%",
+    "uptime": "96.10%",
     "uptimeDay": "26.38%",
-    "uptimeWeek": "70.20%",
-    "uptimeMonth": "88.41%",
-    "uptimeYear": "96.12%",
+    "uptimeWeek": "69.87%",
+    "uptimeMonth": "88.34%",
+    "uptimeYear": "96.10%",
     "time": 1352,
     "timeDay": 6947,
     "timeWeek": 4786,
@@ -326,7 +326,7 @@
       "2026-08-19": 366,
       "2026-08-21": 821,
       "2026-08-22": 986,
-      "2026-08-23": 74
+      "2026-08-23": 107
     }
   },
   {
@@ -336,7 +336,7 @@
     "slug": "opengist",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "32.84%",
+    "uptimeDay": "34.81%",
     "uptimeWeek": "72.33%",
     "uptimeMonth": "89.26%",
     "uptimeYear": "98.31%",
