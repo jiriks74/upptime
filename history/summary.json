@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "56.00%",
     "uptimeDay": "28.34%",
-    "uptimeWeek": "68.86%",
-    "uptimeMonth": "88.52%",
+    "uptimeWeek": "68.28%",
+    "uptimeMonth": "88.38%",
     "uptimeYear": "28.83%",
     "time": 949,
     "timeDay": 10695,
@@ -289,7 +289,7 @@
       "2026-08-20": 723,
       "2026-08-21": 774,
       "2026-08-22": 1064,
-      "2026-08-23": 214
+      "2026-08-23": 272
     }
   },
   {
@@ -298,11 +298,11 @@
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
     "status": "down",
-    "uptime": "96.07%",
+    "uptime": "96.03%",
     "uptimeDay": "37.41%",
-    "uptimeWeek": "69.38%",
-    "uptimeMonth": "88.22%",
-    "uptimeYear": "96.07%",
+    "uptimeWeek": "68.80%",
+    "uptimeMonth": "88.09%",
+    "uptimeYear": "96.03%",
     "time": 1394,
     "timeDay": 7368,
     "timeWeek": 5066,
@@ -326,7 +326,7 @@
       "2026-08-19": 366,
       "2026-08-21": 821,
       "2026-08-22": 986,
-      "2026-08-23": 156
+      "2026-08-23": 215
     }
   },
   {
@@ -334,17 +334,17 @@
     "url": "https://opengist.stefka.eu",
     "icon": "https://opengist.stefka.eu/assets/opengist-85b89b9c.svg",
     "slug": "opengist",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "49.25%",
-    "uptimeWeek": "72.33%",
-    "uptimeMonth": "89.26%",
-    "uptimeYear": "98.31%",
-    "time": 1207,
-    "timeDay": 6412,
-    "timeWeek": 6759,
-    "timeMonth": 2806,
-    "timeYear": 1233,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "49.26%",
+    "uptimeWeek": "71.75%",
+    "uptimeMonth": "89.13%",
+    "uptimeYear": "98.29%",
+    "time": 1213,
+    "timeDay": 6977,
+    "timeWeek": 6894,
+    "timeMonth": 2872,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2025-10-05": 19,
       "2025-11-16": 37,
@@ -379,7 +379,7 @@
       "2026-08-20": 723,
       "2026-08-21": 737,
       "2026-08-22": 894,
-      "2026-08-23": 73
+      "2026-08-23": 132
     }
   }
 ]
