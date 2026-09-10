@@ -4,17 +4,17 @@
     "url": "https://stefka.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
-    "status": "up",
-    "uptime": "56.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "33.61%",
+    "status": "down",
+    "uptime": "56.78%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "91.18%",
+    "uptimeYear": "33.63%",
     "time": 1014,
-    "timeDay": 981,
-    "timeWeek": 912,
-    "timeMonth": 3905,
-    "timeYear": 1117,
+    "timeDay": 860,
+    "timeWeek": 895,
+    "timeMonth": 3881,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2026-05-06": 69,
       "2026-05-05": 1440,
@@ -275,7 +275,8 @@
       "2026-08-30": 187,
       "2026-08-31": 157,
       "2026-09-04": 72,
-      "2026-09-08": 133
+      "2026-09-08": 133,
+      "2026-09-10": 10
     }
   },
   {
@@ -283,11 +284,11 @@
     "url": "https://forgejo.stefka.eu",
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "90.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "67.04%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "67.02%",
     "uptimeYear": "90.03%",
     "time": 1313,
     "timeDay": 738,
@@ -321,7 +322,8 @@
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-09-04": 67,
-      "2026-09-08": 129
+      "2026-09-08": 129,
+      "2026-09-10": 5
     }
   },
   {
@@ -329,9 +331,9 @@
     "url": "https://opengist.stefka.eu",
     "icon": "https://opengist.stefka.eu/assets/opengist-85b89b9c.svg",
     "slug": "opengist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.15%",
     "uptimeMonth": "92.48%",
     "uptimeYear": "98.21%",
@@ -377,7 +379,8 @@
       "2026-08-23": 206,
       "2026-08-30": 186,
       "2026-09-04": 62,
-      "2026-09-08": 124
+      "2026-09-08": 124,
+      "2026-09-10": 0
     }
   }
 ]
