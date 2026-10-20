@@ -1,7 +1,7 @@
 url: https://forgejo.stefka.eu
-status: down
-code: 500
-responseTime: 418
-lastUpdated: 2026-10-20T06:38:57.355Z
+status: up
+code: 200
+responseTime: 663
+lastUpdated: 2026-10-20T10:57:04.733Z
 startTime: 2026-05-14T11:09:34.071Z
 generator: Upptime <https://github.com/upptime/upptime>
