@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
     "status": "down",
-    "uptime": "58.47%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
+    "uptime": "58.46%",
+    "uptimeDay": "82.04%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "44.50%",
     "time": 1084,
     "timeDay": 905,
@@ -239,7 +239,7 @@
       "2026-09-10": 255,
       "2026-09-13": 130,
       "2026-10-17": 115,
-      "2026-10-20": 1
+      "2026-10-20": 259
     }
   },
   {
@@ -247,17 +247,17 @@
     "url": "https://forgejo.stefka.eu",
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
-    "status": "down",
-    "uptime": "92.28%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "92.28%",
-    "time": 1161,
-    "timeDay": 680,
+    "status": "up",
+    "uptime": "92.18%",
+    "uptimeDay": "82.07%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "92.18%",
+    "time": 1160,
+    "timeDay": 676,
     "timeWeek": 678,
-    "timeMonth": 664,
-    "timeYear": 1161,
+    "timeMonth": 661,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2026-05-14": 27,
       "2026-05-22": 162,
@@ -290,7 +290,7 @@
       "2026-09-13": 125,
       "2026-09-18": 118,
       "2026-10-17": 110,
-      "2026-10-20": 1
+      "2026-10-20": 258
     }
   },
   {
@@ -298,15 +298,15 @@
     "url": "https://opengist.stefka.eu",
     "icon": "https://opengist.stefka.eu/assets/opengist-85b89b9c.svg",
     "slug": "opengist",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "98.10%",
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "82.09%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "98.05%",
     "time": 1266,
-    "timeDay": 1176,
-    "timeWeek": 1226,
+    "timeDay": 1182,
+    "timeWeek": 1225,
     "timeMonth": 1183,
     "timeYear": 1296,
     "dailyMinutesDown": {
@@ -350,7 +350,7 @@
       "2026-09-13": 120,
       "2026-09-18": 113,
       "2026-10-17": 105,
-      "2026-10-20": 0
+      "2026-10-20": 258
     }
   }
 ]
