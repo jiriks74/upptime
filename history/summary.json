@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
     "status": "down",
-    "uptime": "59.41%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "94.79%",
+    "uptime": "59.40%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "94.65%",
     "uptimeYear": "51.47%",
     "time": 1177,
     "timeDay": 853,
@@ -215,7 +215,7 @@
       "2026-10-21": 998,
       "2026-10-20": 1041,
       "2026-11-14": 120,
-      "2026-11-16": 10
+      "2026-11-16": 71
     }
   },
   {
@@ -224,11 +224,11 @@
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
     "status": "down",
-    "uptime": "84.44%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "45.04%",
-    "uptimeYear": "84.44%",
+    "uptime": "84.42%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "44.90%",
+    "uptimeYear": "84.42%",
     "time": 1099,
     "timeDay": 662,
     "timeWeek": 657,
@@ -285,7 +285,7 @@
       "2026-10-23": 1440,
       "2026-10-22": 699,
       "2026-11-14": 115,
-      "2026-11-16": 5
+      "2026-11-16": 66
     }
   },
   {
@@ -294,11 +294,11 @@
     "icon": "https://opengist.stefka.eu/assets/opengist-85b89b9c.svg",
     "slug": "opengist",
     "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.00%",
+    "uptime": "99.13%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "97.99%",
     "time": 1280,
     "timeDay": 1163,
     "timeWeek": 1212,
@@ -347,7 +347,7 @@
       "2026-10-20": 258,
       "2026-11-04": 180,
       "2026-11-14": 110,
-      "2026-11-16": 0
+      "2026-11-16": 61
     }
   }
 ]
