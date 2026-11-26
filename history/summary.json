@@ -4,16 +4,16 @@
     "url": "https://stefka.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stefka.eu.ico",
     "slug": "stefka-eu",
-    "status": "down",
-    "uptime": "59.55%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "72.62%",
-    "uptimeMonth": "91.78%",
+    "status": "up",
+    "uptime": "59.54%",
+    "uptimeDay": "73.97%",
+    "uptimeWeek": "69.00%",
+    "uptimeMonth": "90.95%",
     "uptimeYear": "53.44%",
     "time": 1190,
-    "timeDay": 693,
-    "timeWeek": 806,
-    "timeMonth": 894,
+    "timeDay": 758,
+    "timeWeek": 804,
+    "timeMonth": 895,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2026-05-06": 69,
@@ -177,7 +177,6 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
       "2026-05-10": 19,
       "2026-05-14": 27,
       "2026-05-22": 167,
@@ -213,7 +212,8 @@
       "2026-11-21": 743,
       "2026-11-22": 965,
       "2026-11-23": 239,
-      "2026-11-25": 10
+      "2026-11-26": 95,
+      "2026-11-25": 280
     }
   },
   {
@@ -221,17 +221,17 @@
     "url": "https://forgejo.stefka.eu",
     "icon": "https://forgejo.stefka.eu/assets/img/logo.svg",
     "slug": "forgejo",
-    "status": "down",
-    "uptime": "83.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "72.95%",
+    "status": "up",
+    "uptime": "83.88%",
+    "uptimeDay": "74.31%",
+    "uptimeWeek": "69.34%",
     "uptimeMonth": "48.89%",
-    "uptimeYear": "83.98%",
-    "time": 1086,
-    "timeDay": 553,
-    "timeWeek": 676,
+    "uptimeYear": "83.88%",
+    "time": 1085,
+    "timeDay": 587,
+    "timeWeek": 669,
     "timeMonth": 642,
-    "timeYear": 1086,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2026-05-14": 27,
       "2026-05-22": 162,
@@ -290,7 +290,8 @@
       "2026-11-21": 733,
       "2026-11-22": 960,
       "2026-11-23": 234,
-      "2026-11-25": 5
+      "2026-11-26": 95,
+      "2026-11-25": 275
     }
   },
   {
@@ -298,17 +299,17 @@
     "url": "https://opengist.stefka.eu",
     "icon": "https://opengist.stefka.eu/assets/opengist-85b89b9c.svg",
     "slug": "opengist",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "73.29%",
-    "uptimeMonth": "91.59%",
-    "uptimeYear": "97.45%",
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "74.65%",
+    "uptimeWeek": "69.67%",
+    "uptimeMonth": "90.76%",
+    "uptimeYear": "97.39%",
     "time": 1287,
-    "timeDay": 1049,
-    "timeWeek": 1180,
-    "timeMonth": 1177,
-    "timeYear": 1325,
+    "timeDay": 1163,
+    "timeWeek": 1215,
+    "timeMonth": 1181,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2025-12-31": 50,
       "2026-02-15": 777,
@@ -358,7 +359,8 @@
       "2026-11-21": 723,
       "2026-11-22": 955,
       "2026-11-23": 230,
-      "2026-11-25": 0
+      "2026-11-26": 95,
+      "2026-11-25": 270
     }
   }
 ]
